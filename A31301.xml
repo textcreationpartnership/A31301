@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter touching a colledge of maids, or, A virgin-society written Aug. 12, 1675.</title>
+            <author>Barksdale, Clement, 1609-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31301</idno>
+            <idno type="STC">Wing C14</idno>
+            <idno type="STC">ESTC R1612</idno>
+            <idno type="EEBO-CITATION">13069926</idno>
+            <idno type="OCLC">ocm 13069926</idno>
+            <idno type="VID">97107</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97107)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 409:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter touching a colledge of maids, or, A virgin-society written Aug. 12, 1675.</title>
+                  <author>Barksdale, Clement, 1609-1687.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: B.C.</note>
+                  <note>Written by Clement Barksdale. Cf. Halkett &amp; Laing (2nd ed.); DNB.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boarding schools --  Early works to 1800.</term>
+               <term>Boarding schools --  England --  Early works to 1800.</term>
+               <term>Women --  Education --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97107:1"/>
+            <pb facs="tcp:97107:1" rendition="simple:additions"/>
+            <head>A LETTER Touching A Colledge of Maids, OR, A VIRGIN-SOCIETY. Written <hi>Aug.</hi> 12. 1675.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>YOU may expect I ſhould give you ſome account of the <hi>De<g ref="char:EOLhyphen"/>ſign</hi> mention'd yeſterday at our Veniſon (where we had half a dozen fair young Ladies, rich, and virtuous) concerning the <hi>Colledge</hi> of
+<pb facs="tcp:97107:2"/> 
+               <hi>Maids,</hi> or the <hi>Virgin-Society,</hi> at leaſt ſo far as to free it from ridicule. Thus then,</p>
+            <p>Firſt, The <hi>End</hi> (for that is firſt to be conſidered) is to improve ingenuous Maids in ſuch qualities as beſt become their Sex, and may fit them both for a happy Life in this, and much more in the next World.</p>
+            <p>Secondly, The <hi>Means</hi> is firſt to ſe<g ref="char:EOLhyphen"/>parate them from the contagion of common Converſation (which is ſel<g ref="char:EOLhyphen"/>dome uncorrupt) and to find them de<g ref="char:EOLhyphen"/>cent employments and exerciſes, both Divine and Humane (with moderate Recreation) in a convenient Houſe, where they may have Lodging and Diet together, and be under Government, ſomewhat like the Halls of Common<g ref="char:EOLhyphen"/>ers at <hi>Oxford.</hi>
+            </p>
+            <p>Thirdly, At entrance every one puts in <hi>Caution-money</hi> into the hands of the <hi>Steward,</hi> an Aged, grave Gentleman, and of known integrity; five pounds, more or leſs, according to the quality of the Perſons. For,</p>
+            <pb facs="tcp:97107:2"/>
+            <p>Fourthly, There are two <hi>Tables,</hi> higher and lower <hi>Commonſals,</hi> and the chief <hi>Governeſs</hi> at the head of the high<g ref="char:EOLhyphen"/>er, the <hi>Pro-Governeſs</hi> of the lower Ta<g ref="char:EOLhyphen"/>ble.</p>
+            <p>Fifthly, They are ſerved by <hi>Maids</hi> of meaner birth and eſtate, and ſome of theſe have thereby maintenance from their friends (not enough) and they wait at the higher Table, ſome other, and fewer, wait at the lower. And all theſe wait alſo on the Ladies in their Chambers, being well rewarded for their ſervice.</p>
+            <p>Sixthly, There belongs to this Houſe an antient <hi>Divine,</hi> of competent Gra<g ref="char:EOLhyphen"/>vity and Learning (approved by the Lord Biſhop of the Dioceſs) to attend at the Chappel or Dining-room, once or twice a day for Prayers; and He al<g ref="char:EOLhyphen"/>ſo Preacheth once or twice a Week.</p>
+            <p>Seventhly, The <hi>Governeſſes,</hi> (which may be choſen yearly by conſent) ac<g ref="char:EOLhyphen"/>cording to the Advice of the <hi>Chap<g ref="char:EOLhyphen"/>lain,</hi> appoint the Ladies and their maids
+<pb facs="tcp:97107:3" rendition="simple:additions"/> a method of private Reading and De<g ref="char:EOLhyphen"/>votion.</p>
+            <p>Eighthly, The Fathers of the Vir<g ref="char:EOLhyphen"/>gins (or two choſen men amongſt them) are <hi>Viſitors</hi> of the Colledge, and may, when they pleaſe, take their Daughters home for a few dayes, and diſpoſe of them in marriage when they pleaſe, taking a fair Farewell of the Society.</p>
+            <p>Ninthly, A fair <hi>Garden</hi> belongs to the Houſe, where they have pleaſant Walks and Arbors, and variety, not only of beautiful Flowers, but of whol<g ref="char:EOLhyphen"/>ſome Herbs, and Phyſical Plants; whereof they learn the Uſe and Vir<g ref="char:EOLhyphen"/>tues.</p>
+            <p>Tenthly, Their <hi>Library,</hi> or cloſet of Books, in the Dining room, con<g ref="char:EOLhyphen"/>tains choice Authors of <hi>Hiſtory, Poe<g ref="char:EOLhyphen"/>try,</hi> and eſpecially of <hi>Practical Divinity</hi> and <hi>Devotion:</hi> Not only <hi>Engliſh,</hi> but of Learned, as well as Modern <hi>Lan<g ref="char:EOLhyphen"/>guage.</hi> Wherein divers of the Society are skilled, and willing to teach the
+<pb facs="tcp:97107:3"/> reſt, as many as are inclined and apt to learn.</p>
+            <p>Eleventhly, There are among them<g ref="char:EOLhyphen"/>ſelves alſo not wanting, who teach <hi>Mu<g ref="char:EOLhyphen"/>ſick</hi> and <hi>Dancing,</hi> (beſides <hi>Needle-works</hi> and <hi>Drawing)</hi> ſo far at leaſt, (which is enough) as concerneth decent mo<g ref="char:EOLhyphen"/>tion, and geſture of body, and may ſerve for recreation, or for the ſervice of God, I mean Muſick of Voice or In<g ref="char:EOLhyphen"/>ſtrument.</p>
+            <p>Twelfthly, Some of them are capa<g ref="char:EOLhyphen"/>ble and well-affected to ſtudies of <hi>Philo<g ref="char:EOLhyphen"/>ſophy,</hi> eſpecially Natural and Moral; and delighted with making ſome of the eaſier <hi>Experiments</hi> in Natural things.</p>
+            <p>Thirteenthly, Their <hi>Chambers,</hi> and liberty of going abroad, and viſiting of Friends, may be eaſily ordered by the Counſels of their Parents, whom we have named Viſitors or Overſeers, and by the Governeſſes.</p>
+            <p>Fourteenthly, Their <hi>Apparel</hi> is mo<g ref="char:EOLhyphen"/>deſt, ſuitable to their Minds. The up<g ref="char:EOLhyphen"/>per Garment a looſe Gown girt about
+<pb facs="tcp:97107:4"/> them, and a large Hood; the Gentle<g ref="char:EOLhyphen"/>women wear fine ſilk, of ſome ſad co<g ref="char:EOLhyphen"/>lour, their Maids of fine Serge. But when with their Parents and Friends, they go in any becoming habit, not ſhewing any part naked, beſide the face and hands.</p>
+            <p>Fifteenthly, On the <hi>Holy dayes</hi> they uſe to go orderly to the Pariſh-Church near their Houſe, where they have a private Gallery fitted for them.</p>
+            <p>All this, (which you may add to, or alter) is ſubmitted to your candid cen<g ref="char:EOLhyphen"/>ſure, by</p>
+            <closer>
+               <date>
+                  <hi>Aug.</hi> 12. 75.</date>
+               <signed>Your Humble Servant <hi>B. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:97107:4"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THe <hi>Abby-Houſe,</hi> holden by Leaſe, will contain twenty Gentlewo<g ref="char:EOLhyphen"/>men, and their ten Maids: two for the Kitchin, two for the Buttery, and ſix for the Dining Room. The <hi>Perſons</hi> may be found within ſeven miles com<g ref="char:EOLhyphen"/>paſs, as I ſuppoſe.</p>
+            <div type="part">
+               <head>
+                  <hi>Ladies Calling,</hi> part. 2. pag. 3.</head>
+               <p>As for the <hi>Religious Orders of Virgins</hi> in the <hi>Roman</hi> Church, though ſome of thoſe very great abuſes have crept in; yet I think 'twere to be wiſh'd, that thoſe who ſuppreſt them in this Nation, had confin'd themſelves within the bounds of a <hi>Reformation,</hi> by chooſing rather to rectifie and regulate, than aboliſh them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
